@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash0214" alt="akash0214" /></a> </p>
 
-- 🔭 I’m currently working on [Dhairya](https://github.com/akash0214/Dhairya.git)
+- 🔭 I’m currently working on [Fyers](https://github.com/akash0214/Fyers.git)
 
 - 🌱 I’m currently learning **Express, MongoDB and DSA**
 
