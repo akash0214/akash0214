@@ -1,3 +1,5 @@
+![likedIn Banner](https://github.com/akash0214/akash0214/assets/90954269/47c1dc99-6e02-44c5-a4c7-0d3c923ecbf1)
+
 <h1 align="center">Hi 👋, I'm Akash Singh</h1>
 <h3 align="center">A passionate Pragrammer from India</h3>
 
