@@ -1,8 +1,7 @@
 ![likedIn Banner](https://github.com/akash0214/akash0214/assets/90954269/47c1dc99-6e02-44c5-a4c7-0d3c923ecbf1)
 
 # 💫 About Me:
-A passionate programmer from India. Currently working on Algo trading using python and also having a good working experience in MERN Stack development
-
+Hello it's Akash this side. A problem solver with some critical and analytical thinking to ride through this tech world.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_akash_0214_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashsingh29) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/akash_214) 
